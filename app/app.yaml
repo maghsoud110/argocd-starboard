@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/AnaisUrlichs/react-article-display.git
+    repoURL: https://github.com/maghsoud110/react-article-display.git
     path: manifests
     directory:
       recurse: true
