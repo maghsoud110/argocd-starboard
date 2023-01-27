@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/maghsoud110/react-article-display.git
-    path: manifests
+    path: deploy/manifests
     directory:
       recurse: true
   destination:
